@@ -1,8 +1,12 @@
-This project models and visualizes realistic airplane motion using Python and Matplotlib. It provides an interactive and dynamic simulation of multiple planes, each with distinct trajectory profiles, speeds, and acceleration parameters. The simulation is designed to analyze and depict forward motion, altitude changes, and speed variations using equations of motion.
+This project models and visualizes realistic airplane motion using Python and Matplotlib. 
+It provides an interactive and dynamic simulation of multiple planes, each with distinct trajectory profiles, speeds, and acceleration parameters. The simulation is designed to analyze and depict forward motion, altitude changes, and speed variations using equations of motion.
 
 Realistic Motion Simulation: Customizable acceleration and altitude calculations for accurate position, velocity, and speed data over time.
+
 Dynamic Visualizations: Animated trajectory paths with color-coded plane identifiers and real-time progress updates.
+
 Interactive Analysis: Subplots for trajectory visualization, time vs. distance, and speed vs. time, providing comprehensive analytical insights.
+
 User-Friendly Interface: Real-time data visualization for enhanced understanding of flight dynamics.
 
 
